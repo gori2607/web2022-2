@@ -1,0 +1,11 @@
+//alert('Hello, Tessei!');
+//alert(1+1);
+//alert(math.sqrt(1+1));
+//alert(math.sqrt(2)+math.sqrt(3));
+//atert(1/0);
+//alert(0/0);
+//alert(2+3);
+//alert('2'+'3');
+//alert(Number('2')+Number('3));
+//alert('2'+3);
+alert(Number('2')+3);
